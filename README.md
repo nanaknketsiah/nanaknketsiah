@@ -77,13 +77,11 @@ Coding for over 10 years, first programming language was assembly language I am 
 ### Socials
 <p align="left"> <a href="https://www.github.com/nanaknketsiah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
-### Badges
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/nanaknketsiah"><img src="https://github-readme-stats.vercel.app/api?username=nanaknketsiah&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nanaknketsiah's GitHub stats" /></a>
 
-[![Nana's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanaknketsiah)](https://github.com/nanaknketsiah/github-readme-stats)
 
 <a href="http://www.github.com/nanaknketsiah"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nanaknketsiah&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
