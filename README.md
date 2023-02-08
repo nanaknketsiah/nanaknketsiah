@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nana Kwame Nketsiah
 ===========================================================================================================================================
 
-Full Stack Engineer . Business Analyst . I.T Instructor.
+Full Stack Engineer . Business Analyst . I.T Instructor. Founder
 --------------------------------------------------------
 
 Coding for over 10 years, first programming language was assembly language I am big on applying SDLC to all my projects. Also instructed 100s of student in coding,robotics,cyber security,iots,AI etc. I work as a freelancer(I am the guy you tell what you want and i build it).
