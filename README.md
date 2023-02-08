@@ -10,7 +10,7 @@ Coding for over 10 years, first programming language was assembly language I am 
 *   ✉️  You can contact me at [haniftech9@gmail.com](mailto:haniftech9@gmail.com)
 *   🧠  I'm learning Blockchain Tech
 *   🤝  I'm open to collaborating on any interesting project
-*   ⚡  Tell me what you need built and dont ask too many questions
+*   ⚡  Tell me what you need built
 
 ### Skills 
 <p align="left">
